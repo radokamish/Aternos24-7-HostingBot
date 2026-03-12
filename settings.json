@@ -1,6 +1,6 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": {staff
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
@@ -8,7 +8,7 @@
   "server": {
     "ip": "katchestvo.aternos.me",
     "port": 22293,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
